@@ -1,0 +1,20 @@
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.exe.config
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.exe
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.pdb
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csprojAssemblyReference.cache
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema_Bilet_satis_ders_23.Form1.resources
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema_Bilet_satis_ders_23.Properties.Resources.resources
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csproj.GenerateResource.cache
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csproj.CoreCompileInputs.cache
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.exe
+E:\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\bin\Debug\Sinema Bilet satis ders 23.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema_Bilet_satis_ders_23.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema_Bilet_satis_ders_23.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 23\Sinema Bilet satis ders 23\Sinema Bilet satis ders 23\obj\Debug\Sinema Bilet satis ders 23.pdb
